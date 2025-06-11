@@ -168,8 +168,3 @@ Sayee Ram M
 📅 Created: June 2025
 🔗 https://linkedin.com/in/sayeeram
 
----
-
-## 🪪 License
-
-This project is licensed under the MIT License.
